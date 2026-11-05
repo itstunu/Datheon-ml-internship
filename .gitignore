@@ -1,0 +1,5 @@
+# .gitignore
+__pycache__/
+.venv/
+*.png
+.ipynb_checkpoints/
